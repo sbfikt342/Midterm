@@ -43,8 +43,12 @@ In this section, mention the purpose and importance of your work in a few paragr
 
 ## Literature Review
 
-In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least six** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
+In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least 4** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
 
+
+new citation for my article @lee2008regression or I can type [@lee2008regression]
+
+emrah's great article [@emraher2023]
 
 
 **References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
